@@ -8,9 +8,9 @@ This git repository contains code files (in ruby and in javascript) for some of 
         ii)If the previous term is odd, the next term is 3 times the previous term plus 1. 
    The conjecture is that no matter what value of n, the sequence will always reach 1.
 
-2) Fibonnaci Sequence: the sequence starts off with a 0 and a 1, and then each corresponding digit is the sum of the two previous digits.
+2) **Fibonnaci Sequence:** The sequence starts off with a 0 and a 1, and then each corresponding digit is the sum of the two previous digits.
 
-3) Luhn Algorithm :The Luhn algorithm is a method that credit cards and other identification numbers can use to distinguish valid numbers 
+3) **Luhn Algorithm:** The Luhn algorithm is a method that credit cards and other identification numbers can use to distinguish valid numbers 
    from invalid ones. It is meant to prevent users from making accidental errors.
    How the Algorithm Works
       Step 1 - break the credit card into its individual digits.
@@ -23,5 +23,5 @@ This git repository contains code files (in ruby and in javascript) for some of 
  
  ### Javascript Challenges ###
  
- 1) Ordinal Challenge :  The ordinal of a number is the number that defines an element's position in a series, such as "first", "second," or "third." Our program will 
+ 1) **Ordinal Challenge:**  The ordinal of a number is the number that defines an element's position in a series, such as "first", "second," or "third." Our program will 
    convert numbers like 1, 2, 3 into ordinals like 1st, 2nd, 3rd, etc.Your program will accept user input and display information back to the user.
