@@ -1,6 +1,6 @@
 This git repository contains code files (in ruby and in javascript) for some of the common coding challenges.  The same are listed below.
 
-###RUBY Challenges ###
+### RUBY Challenges ###
 
 1) Collatz Sequence :The Collatz sequence is defined as follows: 
    Start with any positive integer n. Then each term is obtained from the previous term as follows: 
@@ -23,5 +23,5 @@ This git repository contains code files (in ruby and in javascript) for some of 
  
  ### Javascript Challenges ###
  
- 1)Ordinal Challenge :  The ordinal of a number is the number that defines an element's position in a series, such as "first", "second," or "third." Our program will 
+ 1) Ordinal Challenge :  The ordinal of a number is the number that defines an element's position in a series, such as "first", "second," or "third." Our program will 
    convert numbers like 1, 2, 3 into ordinals like 1st, 2nd, 3rd, etc.Your program will accept user input and display information back to the user.
